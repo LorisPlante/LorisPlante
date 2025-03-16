@@ -6,7 +6,7 @@ Passionné par le développement web, je suis en constante recherche de nouvelle
 
 📍 Basée en région parisienne  
 🌐 [Portfolio](https://lorisplante.fr)  
-📧 contact@lorisplante.fr
+📧 contact@lorisplante.fr  
 🔗 [LinkedIn](https://www.linkedin.com/in/loris-planté/)
 
 ## 💡 Compétences & Technologies
@@ -26,21 +26,30 @@ Passionné par le développement web, je suis en constante recherche de nouvelle
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white&style=flat)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white&style=flat)
-![Symfony](https://img.shields.io/badge/Symfony-000000?style=flat-square&logo=symfony&logoColor=white&style=flat)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white&style=flat)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white&style=flat)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white&style=flat)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white&style=flat)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white&style=flat)
 
-### Outils & Autres Technologies :
-
 ### Bonnes Pratiques :
 
 📱 Développement Web Responsive
 🎨 UX/UI Design
-🌐 Intégration web
-💾 Gestion de bases de données
+🌐 Intégration web  
+💾 Gestion de bases de données  
 🔍 Tests utilisateur
 
+### Staistiques de mon GitHub
+
+| <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=LorisPlante&show_icons=true&theme=default&hide_border=true" /></p> | <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LorisPlante&layout=compact&hide_border=true" /></p> |
+| -------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
+
 ## 🏆 Projets & Réalisations
+
+<a href="https://test2.lorisplante.fr">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LorisPlante&repo=hotel-chartres&theme=buefy" />
+</a>
+<a href="">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LorisPlante&repo=anuraghazra.github.io&theme=buefy" />
+</a>
