@@ -5,8 +5,11 @@
 Passionné par le développement web, je suis en constante recherche de nouvelles technologies à explorer et de défis à relever. Mon objectif est de concevoir des expériences numériques innovantes et performantes.
 
 📍 Basée en région parisienne  
+<br>
 🌐 [Portfolio](https://lorisplante.fr)  
+<br>
 📧 contact@lorisplante.fr  
+<br>
 🔗 [LinkedIn](https://www.linkedin.com/in/loris-planté/)
 
 ## 💡 Compétences & Technologies
@@ -34,11 +37,15 @@ Passionné par le développement web, je suis en constante recherche de nouvelle
 
 ### Bonnes Pratiques :
 
-📱 Développement Web Responsive 
-🎨 UX/UI Design 
+📱 Développement Web Responsive
+<br>
+🎨 UX/UI Design
+<br>
 🌐 Intégration web  
+<br>
 💾 Gestion de bases de données  
-🔍 Tests utilisateur    
+<br>
+🔍 Tests utilisateur
 
 ### Staistiques de mon GitHub
 
