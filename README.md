@@ -34,11 +34,11 @@ Passionné par le développement web, je suis en constante recherche de nouvelle
 
 ### Bonnes Pratiques :
 
-📱 Développement Web Responsive &nbsp;
-🎨 UX/UI Design &nbsp;
-🌐 Intégration web &nbsp;
-💾 Gestion de bases de données &nbsp;
-🔍 Tests utilisateur &nbsp;
+📱 Développement Web Responsive     
+🎨 UX/UI Design     
+🌐 Intégration web      
+💾 Gestion de bases de données      
+🔍 Tests utilisateur        
 
 ### Staistiques de mon GitHub
 
