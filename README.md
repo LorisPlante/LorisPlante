@@ -42,8 +42,8 @@ Passionné par le développement web, je suis en constante recherche de nouvelle
 
 ### Staistiques de mon GitHub
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=LorisPlante&show_icons=true&theme=default&hide_border=true" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LorisPlante&layout=compact&hide_border=true" />
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=LorisPlante&show_icons=true&theme=default" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LorisPlante&layout=compact" /></p>
 
 ## 🏆 Projets & Réalisations
 
