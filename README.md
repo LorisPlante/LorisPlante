@@ -34,16 +34,16 @@ Passionné par le développement web, je suis en constante recherche de nouvelle
 
 ### Bonnes Pratiques :
 
-📱 Développement Web Responsive
-🎨 UX/UI Design
+📱 Développement Web Responsive 
+🎨 UX/UI Design 
 🌐 Intégration web  
 💾 Gestion de bases de données  
-🔍 Tests utilisateur
+🔍 Tests utilisateur    
 
 ### Staistiques de mon GitHub
 
-| <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=LorisPlante&show_icons=true&theme=default&hide_border=true" /></p> | <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LorisPlante&layout=compact&hide_border=true" /></p> |
-| -------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=LorisPlante&show_icons=true&theme=default&hide_border=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LorisPlante&layout=compact&hide_border=true" />
 
 ## 🏆 Projets & Réalisations
 
@@ -53,6 +53,8 @@ Passionné par le développement web, je suis en constante recherche de nouvelle
 <a href="https://urbanroots.vercel.app" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LorisPlante&repo=urbanRoot&theme=buefy" />
 </a>
+<br>
+<br>
 <a href="https://relation-promptee.lorisplante.fr" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LorisPlante&repo=relation-promptee&theme=buefy" />
 </a>
