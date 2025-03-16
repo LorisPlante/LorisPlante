@@ -47,9 +47,9 @@ Passionné par le développement web, je suis en constante recherche de nouvelle
 
 ## 🏆 Projets & Réalisations
 
-<a href="https://test2.lorisplante.fr">
+<a href="https://test2.lorisplante.fr" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LorisPlante&repo=hotel-chartres&theme=buefy" />
 </a>
-<a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LorisPlante&repo=anuraghazra.github.io&theme=buefy" />
+<a href="https://urbanroots.lorisplante.fr">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LorisPlante&repo=urbanRoot&theme=buefy" />
 </a>
