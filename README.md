@@ -50,6 +50,12 @@ Passionné par le développement web, je suis en constante recherche de nouvelle
 <a href="https://test2.lorisplante.fr" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LorisPlante&repo=hotel-chartres&theme=buefy" />
 </a>
-<a href="https://urbanroots.vercel.app">
+<a href="https://urbanroots.vercel.app" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LorisPlante&repo=urbanRoot&theme=buefy" />
+</a>
+<a href="https://relation-promptee.lorisplante.fr" target="_blank">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LorisPlante&repo=relation-promptee&theme=buefy" />
+</a>
+<a href="https://active-gaming.lorisplante.fr" target="_blank">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LorisPlante&repo=compet-activeGaming&theme=buefy" />
 </a>
