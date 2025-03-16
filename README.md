@@ -40,7 +40,7 @@ Passionné par le développement web, je suis en constante recherche de nouvelle
 💾 Gestion de bases de données      
 🔍 Tests utilisateur        
 
-## 📊 sStaistiques de mon GitHub
+## 📊 Staistiques de mon GitHub
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=LorisPlante&show_icons=true&theme=default" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LorisPlante&layout=compact" /></p>
